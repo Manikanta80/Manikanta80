@@ -1,28 +1,45 @@
-![logo](https://res.cloudinary.com/practicaldev/image/fetch/s--enVmT-G4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7j8s2h4erdejm82dyyn7.png)
-<h1 align="center">Hi 👋, I'm P Manikanta</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
-![Banner Image](insert-banner-image-url-here)
+<h1 align="center">Hi 👋, I'm PUPPALA MANIKANTA</h1>
+<h3 align="center">A passionate Data Analyst from India</h3><br><br>
 
-- **Location:** Rajahmundry, India
-- **Phone:** +91 8008120597
-- **Email:** manipuppala9985@gmail.com
 
-## Summary
 
-An adaptable and eager learner with excellent communication and problem-solving skills, highlighting teamwork, communication, and brilliant interpersonal skills. Possessing a strong academic background, I am seeking opportunities to contribute and grow in my desired field/industry.
+![Banner Image](https://res.cloudinary.com/practicaldev/image/fetch/s--enVmT-G4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7j8s2h4erdejm82dyyn7.png)
 
-## Skills
-<ul class="skills-list">
-        <li><i class="fab fa-python"></i> Python</li>
-        <li><i class="fab fa-java"></i> Java</li>
-        <li><i class="fab fa-html5"></i> HTML</li>
-        <li><i class="fab fa-css3"></i> CSS</li>
-        <li><i class="fas fa-database"></i> SQL</li>
-        <li><i class="fas fa-chart-bar"></i> Power BI</li>
-        <li><i class="fas fa-flask"></i> Data Science</li>
-        <li><i class="fas fa-chart-line"></i> Data Analytics</li>
-        <li><i class="fas fa-file-excel"></i> MS Excel/Word</li>
-    </ul>
+## 📚 About Me
+
+I'm an adaptable and eager learner with a strong academic background. I have excellent communication and problem-solving skills, with a passion for data analysis and software development. I'm always seeking opportunities to contribute and grow in my desired field.
+
+## ⚙️ Skills
+
+- ![Python](https://img.shields.io/badge/Python-★★★-blue)
+- ![Java](https://img.shields.io/badge/Java-★★☆-green)
+- ![HTML](https://img.shields.io/badge/HTML-★★★-orange)
+- ![CSS](https://img.shields.io/badge/CSS-★★☆-purple)
+- ![SQL](https://img.shields.io/badge/SQL-★★★-blueviolet)
+- ![Power BI](https://img.shields.io/badge/Power%20BI-★★☆-yellow)
+- ![Data Science](https://img.shields.io/badge/Data%20Science-★★★-green)
+- ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-★★★-red)
+- ![MS Excel/Word](https://img.shields.io/badge/MS%20Excel%2FWord-★★★-blue)
+
+## 🌟 Projects
+
+### QR Based Asset Management System (Aug 2023 - Present)
+Designed and coded a user-friendly mobile application that allows users to easily scan QR codes on assets for instant access to asset details, location, and maintenance history.
+
+### Personal Portfolio (Jan 2023 - Feb 2023)
+Developed and maintained a personal portfolio website to showcase my projects and skills. Used HTML, CSS, and JavaScript to build and customize the website according to my personal branding.
+
+### Used Cars Price Prediction (Jul 2022 - Sep 2022)
+At Vintern, created a machine learning model to predict used car prices accurately.
+
+## 📫 Contact
+
+- 📧 Email: [Your Email Address](manipuppala9985@gmail.com)
+- 📱 Mobile: +91 8008120597
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/manikanta-puppala-784141245/)
+- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/manikantapuppa6)
+
+
 
 ## Experience
 
@@ -53,21 +70,3 @@ An adaptable and eager learner with excellent communication and problem-solving 
 - **Schooling • Sri Shirdi Sai Vidya Niketan (Jan 2007 - Jan 2018)**
   - Grade: 95%
   - Successfully fulfilled the requirements of the Board of Secondary Education.
-
-## Projects
-
-### QR Based Asset Management System (Aug 2023 - Present)
-
-- Designed and coded a user-friendly mobile application that allows users to easily scan QR codes on assets for instant access to asset details, location, and maintenance history.
-
-### Personal Portfolio (Jan 2023 - Feb 2023)
-
-- Developed and maintained a personal portfolio website to showcase my projects and skills. Used HTML, CSS, and JavaScript to build and customize the website according to my personal branding.
-
-### Used Cars Price Prediction (Jul 2022 - Sep 2022)
-
-- At Vintern, created a machine learning model to predict used car prices accurately.
-
----
-
-Feel free to add more details, customize the banner image URL, or make any other modifications to suit your preferences. This README provides a starting point for your GitHub profile. Good luck with your GitHub journey!
