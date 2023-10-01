@@ -34,10 +34,10 @@ At Vintern, created a machine learning model to predict used car prices accurate
 
 ## 📫 Contact
 
-- 📧 Email: [Your Email Address](manipuppala9985@gmail.com)
+- 📧 Email: [manipuppala9985@gmail.com](manipuppala9985@gmail.com)
 - 📱 Mobile: +91 8008120597
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/manikanta-puppala-784141245/)
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/manikantapuppa6)
+- 💼 LinkedIn: [https://www.linkedin.com/in/manikanta-puppala-784141245/](https://www.linkedin.com/in/manikanta-puppala-784141245/)
+- 🐦 Twitter: [https://twitter.com/manikantapuppa6]()
 
 
 
