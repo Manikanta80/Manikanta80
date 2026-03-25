@@ -1,72 +1,130 @@
-<h1 align="center">Hi 👋, I'm PUPPALA MANIKANTA</h1>
-<h3 align="center">A passionate Data Analyst from India</h3><br><br>
+<h1 align="center">Hi 👋, I'm Puppala Manikanta</h1>
+<h3 align="center">🚀 Data Analyst | Python • SQL • Power BI • Machine Learning</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/manikanta-puppala-784141245/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
+  </a>
+  <a href="mailto:manipuppala9985@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send-red?logo=gmail" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Manikanta80&label=Profile%20views&color=blue" />
+</p>
 
+---
 
-![Banner Image](https://res.cloudinary.com/practicaldev/image/fetch/s--enVmT-G4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7j8s2h4erdejm82dyyn7.png)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=120&section=header"/>
 
-## 📚 About Me
+## 🧠 About Me
 
-I'm an adaptable and eager learner with a strong academic background. I have excellent communication and problem-solving skills, with a passion for data analysis and software development. I'm always seeking opportunities to contribute and grow in my desired field.
+💡 Data Analyst with real-world experience transforming data into insights
 
-## ⚙️ Skills
+* 📊 Processed **80K+ records/month with 98% accuracy** at Wipro
+* ⚡ Reduced reporting time by **15% using automation**
+* 📈 Skilled in **Python, SQL, Power BI & Machine Learning**
+* 🎯 Open to **Data Analyst roles (Hyderabad / Remote)**
 
-- ![Python](https://img.shields.io/badge/Python-★★★-blue)
-- ![Java](https://img.shields.io/badge/Java-★★☆-green)
-- ![HTML](https://img.shields.io/badge/HTML-★★★-orange)
-- ![CSS](https://img.shields.io/badge/CSS-★★☆-purple)
-- ![SQL](https://img.shields.io/badge/SQL-★★★-blueviolet)
-- ![Power BI](https://img.shields.io/badge/Power%20BI-★★☆-yellow)
-- ![Data Science](https://img.shields.io/badge/Data%20Science-★★★-green)
-- ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-★★★-red)
-- ![MS Excel/Word](https://img.shields.io/badge/MS%20Excel%2FWord-★★★-blue)
+---
 
-## 🌟 Projects
+## 🛠️ Tech Stack
 
-### QR Based Asset Management System (Aug 2023 - Present)
-Designed and coded a user-friendly mobile application that allows users to easily scan QR codes on assets for instant access to asset details, location, and maintenance history.
+### 💻 Languages & Tools
 
-### Personal Portfolio (Jan 2023 - Feb 2023)
-Developed and maintained a personal portfolio website to showcase my projects and skills. Used HTML, CSS, and JavaScript to build and customize the website according to my personal branding.
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,java,html,css" />
+</p>
 
-### Used Cars Price Prediction (Jul 2022 - Sep 2022)
-At Vintern, created a machine learning model to predict used car prices accurately.
+### 📊 Data Tools
 
-## 📫 Contact
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-green"/>
+</p>
 
-- 📧 Email: [manipuppala9985@gmail.com](manipuppala9985@gmail.com)
-- 📱 Mobile: +91 8008120597
-- 💼 LinkedIn: [https://www.linkedin.com/in/manikanta-puppala-784141245/](https://www.linkedin.com/in/manikanta-puppala-784141245/)
-- 🐦 Twitter: [https://twitter.com/manikantapuppa6]()
+---
 
+## 🚀 Featured Projects
 
+### 📊 Retail Sales Analytics Dashboard
 
-## Experience
+🔹 Built using **Python, Flask, MySQL**
+🔹 Visualized KPIs like revenue & profit
+🔹 Interactive charts for decision-making
 
-### Web Developing • Oasis Info Byte (Jul 2023 - Aug 2023)
+---
 
-- Created interactive websites using modern tools at Oasis Info Byte, resulting in engaging user experiences and effective online solutions.
+### 🏦 Loan Risk Prediction System
 
-### Data Analyst • Technocolabs Software Company (Jun 2023 - Aug 2023)
+🔹 ML model with **97.7% accuracy (Random Forest)**
+🔹 Identified key drivers of loan approval
+🔹 Dashboard built in Power BI
 
-- Transformed complex datasets into clear insights, allowing for better-informed business decisions and success. Worked from June 2023 to August 2023.
+---
 
-### Machine Learning • Vintern (Feb 2023 - Apr 2023)
+### 📱 QR-Based Asset Management System
 
-- Utilized advanced algorithms to accurately predict used car prices during my time at Vintern. This helped enhance pricing strategies and contribute to overall business success.
+🔹 QR scanning mobile app
+🔹 Real-time asset tracking system
 
-## Education
+---
 
-- **B Tech • Centurion University of Technology and Management (Sep 2020 - Present)**
-  - Major: Computer Science and Engineering
-  - Grade: 87%
-  - Specialization in Data Science and Machine Learning
+## 💼 Experience
 
-- **Board of Intermediate Education • Sri Shiridi Sai Junior College (Sep 2018 - May 2020)**
-  - Major: MPC
-  - Grade: 62%
-  - Completed high school education from the Board of Intermediate Education.
+### 🏢 Data Operations & Analytics — Wipro
 
-- **Schooling • Sri Shirdi Sai Vidya Niketan (Jan 2007 - Jan 2018)**
-  - Grade: 95%
-  - Successfully fulfilled the requirements of the Board of Secondary Education.
+✔ Processed **50K+ datasets per cycle**
+✔ Maintained **98% data accuracy**
+✔ Automated reports → **15% faster**
+✔ Reviewed **80K+ records/month**
+✔ Worked in **24/7 SLA-driven environment**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manikanta80&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manikanta80&theme=tokyonight" />
+</p>
+
+---
+
+## 📜 Certifications
+
+🎓 Microsoft Azure Fundamentals (AZ-900)
+📊 AI Dashboards using Power BI
+
+---
+
+## 🎓 Education
+
+🎓 **B.Tech – Computer Science & Engineering**
+Centurion University of Technology and Management
+📈 CGPA: **8.7**
+
+---
+
+## 📫 Connect With Me
+
+<p>
+<a href="mailto:manipuppala9985@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail"></a>
+<a href="https://www.linkedin.com/in/manikanta-puppala-784141245/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
+<a href="https://twitter.com/manikantapuppa6"><img src="https://img.shields.io/badge/Twitter-black?logo=twitter"></a>
+</p>
+
+---
+
+## 📌 Open To
+
+✔ Data Analyst Roles
+✔ Analytics Projects
+✔ Entry-Level Opportunities
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/>
+
+### ⚡ Fun Fact
+
+**I don’t just analyze data — I turn it into decisions 🚀**
